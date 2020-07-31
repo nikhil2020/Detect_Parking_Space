@@ -1,2 +1,2 @@
 # Parking Space Detector
-![alt-text](https://github.com/nikhil2020/Facial_Recognition/blob/master/facial_detection.jpg)
+![alt-text](https://github.com/nikhil2020/Detection_of_parking_space_DL_Project/blob/master/parking_lot.jpg)
